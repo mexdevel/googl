@@ -13,4 +13,16 @@
 
 #txtbox {
     text-align: center;
+    padding: 11px;
+}
+
+button {
+    padding: 7px;
+    border: 8px;
+    margin: 11px;
+}
+
+button:hover {
+    color:white;
+    background:black;
 }
